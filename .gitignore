@@ -1,0 +1,32 @@
+# OS / editor
+.DS_Store
+.vscode/
+.history/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+build/
+dist/
+.eggs/
+*.egg
+.installed.cfg
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Logs / checkpoints / datasets
+*.log
+*.pth
+*.pt
+checkpoints/
+work_dirs/
+data/
+
+# Notebooks
+.ipynb_checkpoints/
